@@ -1,0 +1,7 @@
+apiVersion: v2
+name: helm-flux2
+description: A Helm chart for flux2 controllers
+type: application
+version: 0.1.0
+# this is the version of flux2
+appVersion: 0.8.0
